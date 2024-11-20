@@ -4,7 +4,7 @@ go 1.21
 
 toolchain go1.22.4
 
-replace github.com/zeromicro/goctl-swagger => github.com/litecy/goctl-swaggerex v0.0.0-20241120052612-2c6e3e2e0622
+replace github.com/zeromicro/goctl-swagger => github.com/litecy/goctl-swaggerex v1.0.0
 
 require (
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
