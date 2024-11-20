@@ -1,6 +1,10 @@
-module github.com/zeromicro/goctl-swagger
+module github.com/litecy/goctl-swaggerex
 
-go 1.16
+go 1.21
+
+toolchain go1.22.4
+
+replace github.com/zeromicro/goctl-swagger => github.com/litecy/goctl-swaggerex latest
 
 require (
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
