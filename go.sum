@@ -68,6 +68,7 @@ github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
 github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=
 github.com/litecy/goctl-swaggerex v0.0.0-20241120052612-2c6e3e2e0622 h1:qtDyysL3T+gl3xuFbmhGzwKHqvDp8dXsQqCq9OehffU=
 github.com/litecy/goctl-swaggerex v0.0.0-20241120052612-2c6e3e2e0622/go.mod h1:ad192JyLeb1yRHAS2CwhAia4sWNCObYd5Ti1S06Ff2M=
+github.com/litecy/goctl-swaggerex v1.0.0/go.mod h1:ajx53ph61V2xsstyon6SD/PGPtHWrtBUjz9eneHUJhw=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=
 github.com/mattn/go-colorable v0.1.13/go.mod h1:7S9/ev0klgBDR4GtXTXX8a3vIGJpMovkB8vQcUbaXHg=
 github.com/mattn/go-isatty v0.0.16/go.mod h1:kYGgaQfpe5nmfYZH+SKPsOc2e4SrIfOl2e/yFXSvRLM=
